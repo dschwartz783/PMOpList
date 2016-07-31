@@ -1,0 +1,13 @@
+name: PMOpList
+main: DDSPlugins\PMOpList\PMOpList
+version: 1.0.0
+api: 2.0.0
+prefix: "PMOpList"
+description: "A plugin for PocketMiners for listing staff"
+author: "David Schwartz"
+website: "pocketminers.com"
+
+commands:
+  liststaff:
+    description: "Lists currently online staff"
+    usage: "/liststaff"
